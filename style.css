@@ -1,0 +1,19 @@
+body {
+    .background {
+
+    /* Set the background image */
+    background-image: url('foto/background\ putih.jfif');
+    /* Set the background size to cover the entire page */
+    background-size: cover;
+    /* Set the background position to center */
+    background-position: right;
+    /* Add a subtle gradient overlay to enhance the background */
+    background: linear-gradient(rgba(255, 255, 255, 0.863), rgba(255, 255, 255, 0.884)), url('foto/background\ putih.jfif');
+  }
+  
+  /* Add some basic styling to the body */
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
